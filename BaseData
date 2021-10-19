@@ -1,5 +1,5 @@
 { 
-  "coin" : {
+  "main" : {
       "title" : "디아블로 정보",
       "notiOn" : "false",
       "notiTitle" : "공지",
