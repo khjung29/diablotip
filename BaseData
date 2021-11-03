@@ -694,6 +694,6 @@
   {"id":29,"name":"수르(sur)","level":61,"weapon":"피격 대상 실명효과","defense":"마나 최대치 5%/마나+50","makerune":"로","makenum":2,"makeetc":" 상급 토파즈","img":"sur"},
   {"id":30,"name":"베르(ber)","level":63,"weapon":"몬스터 HP 25% 감소 확률 20%","defense":"피격 대미지 8%감소","makerune":"수르","makenum":2,"makeetc":"상급 자수정","img":"ber"},
   {"id":31,"name":"자(jah)","level":65,"weapon":"방어 무시","defense":"라이프 최대치+5%/라이프+50","makerune":"베르","makenum":2,"makeetc":"상급 사파이어","img":"jah"},
-  {"id":32,"name":"참(charm)","level":67,"weapon":"대상을 얼림","defense":"얼지 않음","makerune":"자(jah)","makenum":2,"makeetc":"상급 루비","img":"charm"},
-  {"id":33,"name":"조드(zod)","level":69,"weapon":"파괴 불가","defense":"파괴 불가","makerune":"참(charm)","makenum":2,"makeetc":"상급 에메랄드","img":"zod"}]
+  {"id":32,"name":"참(charm)","level":67,"weapon":"대상을 얼림","defense":"얼지 않음","makerune":"자","makenum":2,"makeetc":"상급 루비","img":"charm"},
+  {"id":33,"name":"조드(zod)","level":69,"weapon":"파괴 불가","defense":"파괴 불가","makerune":"참","makenum":2,"makeetc":"상급 에메랄드","img":"zod"}]
 }
