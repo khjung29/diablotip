@@ -664,7 +664,7 @@
   }
 ],
 "rune" : [{"id":1,"name":"엘(el)","level":11,"weapon":"공격등급+50/시야+1","defense":"방어도 +15/시야+1","makerune":"","makenum":null,"makeetc":"","img":"el"},
-  {"id":2,"name":"엘드(eld)","level":11,"weapon":"공격등급+50언데드몬스터+75%","defense":"스태미너소모-15%/블럭률상승","makerune":"엘 ","makenum":3,"makeetc":"","img":"eld"},
+  {"id":2,"name":"엘드(eld)","level":11,"weapon":"공격등급+50언데드몬스터+75%","defense":"스태미너소모-15%/블럭률상승","makerune":"엘","makenum":3,"makeetc":"","img":"eld"},
   {"id":3,"name":"티르(tir)","level":13,"weapon":"몹처치시+2마나회복","defense":"몹처치시+2마나회복","makerune":"엘드","makenum":3,"makeetc":"","img":"tir"},
   {"id":4,"name":"네프(nef)","level":13,"weapon":"넉백","defense":"원거리방어+30","makerune":"티르","makenum":3,"makeetc":"","img":"nef"},
   {"id":5,"name":"에드(eth)","level":15,"weapon":"타겟 방어-25%","defense":"마나재생+15%","makerune":"네프","makenum":3,"makeetc":"","img":"eth"},
